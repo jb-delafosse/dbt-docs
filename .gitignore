@@ -9,3 +9,7 @@ env/
 .tmp/
 dist/
 .sass-cache/
+styles/_site/
+styles/.sass-cache/
+styles/.jekyll-cache/
+styles/.jekyll-metadata
